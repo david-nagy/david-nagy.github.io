@@ -1,0 +1,35 @@
+<footer class="footer">
+  <a class="footer_item" href="https://github.com/david-nagy">github</a>
+  <a class="footer_item" href="https://www.linkedin.com/in/davidgnagy/">linkedin</a>
+  <a class="footer_item" href="/feed.xml">rss</a>
+  <small class="footer_copyright">
+    <!-- Klisé Theme: https://github.com/piharpi/jekyll-klise -->
+    <a
+      href="https://github.com/piharpi/jekyll-klise"
+      target="_blank"
+      rel="noreferrer noopener"
+      >klisé</a
+    >
+    theme
+
+  </small>
+</footer>
+<script src="/assets/js/main.js" defer="defer"></script>
+
+{%- if page.google_analytics -%}
+  <script src="/assets/js/galite.js"></script>
+  <script>
+    var galite = galite || {};
+    galite.UA = "{{ site.google_analytics }}";
+  </script>
+{%- endif -%}
+{%- if page.url == '/archive/' -%}
+  <script src="/assets/js/search.min.js"></script>
+  <script>
+    var sjs = SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('search-results'),
+      json: '/assets/search.json',
+    });
+  </script>
+{%- endif -%}

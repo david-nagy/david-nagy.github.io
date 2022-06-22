@@ -1,0 +1,25 @@
+- title: david nagy
+  url: /
+  external: false
+
+- title: blog
+  url: /archive/
+  external: false
+
+- title: teaching
+  url: /teaching/
+  external: false
+
+- title: talks
+  url: http://davidnagy.web.elte.hu/eloadas/kiseloadas/?C=M;O=D
+  external: true
+
+- title: scholar
+  url: https://scholar.google.com/citations?user=oHAOUTYAAAAJ
+  external: true
+
+- title: twitter
+  url: https://twitter.com/dvgnagy
+  external: true
+
+
