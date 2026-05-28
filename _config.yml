@@ -1,8 +1,8 @@
 # Site settings
-title: David Nagy # site title
+title: David G. Nagy # site title
 description: >- # site description
-  I'm currently a postdoc working with Charley Wu and Peter Dayan at the
-  University of Tübingen and the Max Planck Institute for Biological Cybernetics.
+  David G. Nagy is currently a postdoc working with Charley Wu and Peter Dayan
+  at the University of Tübingen and the Max Planck Institute for Biological Cybernetics.
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -11,9 +11,9 @@ mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: David Nagy # author name
+  name: David G. Nagy # author name
   bio: >-
-    David G Nagy
+    David G. Nagy
   username: username # general username
   github: david-nagy # github username
   twitter: dvgnagy # twitter username
