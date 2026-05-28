@@ -8,3 +8,4 @@ I'm currently a postdoc working with [Charley Wu](https://hmc-lab.com/) and [Pet
 
 My main interest is understanding how the brain constructs abstract mental models on the basis of experience, including how they are shaped by the severe resource constraints the brain is operating under. My research uses computational models to explore normative theories of learning and memory. For more details, see our [review paper](https://www.nature.com/articles/s44159-025-00458-6)  on memory systems or [my phd thesis](http://davidnagy.web.elte.hu/preprints/dnagy_thesis_elte.pdf).
 
+I'm currently co-organising a workshop series, "Framing the Problem," at [CogSci 2026](https://framing-the-problem.github.io/cogsci2026) (July 22-25, 2026) and [CCN 2026](https://framing-the-problem.github.io/ccn2026) (August 3-6, 2026), on how the brain constructs abstract world models in naturalistic tasks.
